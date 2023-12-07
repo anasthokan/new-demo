@@ -4,5 +4,5 @@ This is my first repository.
 # Teacher
 Shradha
 
-#Student
+# Student
 Anas
